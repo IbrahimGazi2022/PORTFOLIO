@@ -1,0 +1,19 @@
+.hero {
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(
+    to right bottom,
+    #190b23,
+    #1d0f2d,
+    #221039,
+    #271244,
+    #2b1450,
+    #2c1452,
+    #2d1453,
+    #2e1455,
+    #2c124d,
+    #2a1145,
+    #280f3d,
+    #250e36
+  );
+}
