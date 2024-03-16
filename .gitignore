@@ -13,6 +13,7 @@ dist-ssr
 *.local
 p
 .txt
+shot.ico
 
 # Editor directories and files
 .vscode/*
